@@ -9,7 +9,9 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Saiful64/Saiful64/blob/main/animation_500_kxa883sd.gif" alt="saiful64" /></p>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 
 - 🌱 I’m currently learning Full stack Developer
